@@ -1,0 +1,7 @@
+body {
+    background-color: #000;
+}
+
+.app__gallery-page_sub {
+    color: var(--color-blue);
+}

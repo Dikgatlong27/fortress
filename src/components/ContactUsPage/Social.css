@@ -1,0 +1,18 @@
+.app__contactUs-social_socialLinks {
+    gap: 3rem;
+    flex-wrap: wrap;
+}
+
+#social__links-mobile {
+    display: none;
+}
+
+@media screen and (max-width:600px) {
+    #social__links-mobile {
+        display: flex;
+    }
+
+    #social__links {
+        display: none;
+    }
+}

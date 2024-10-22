@@ -1,0 +1,24 @@
+#vacancies {
+    text-align: center;
+}
+
+.app__vacanciesPosts-sub {
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    line-height: 29.9px;
+    font-size: 30px;
+}
+
+.app__vacancieaPosts-posts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+

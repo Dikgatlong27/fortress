@@ -1,0 +1,7 @@
+.app__vacantPosts {
+    padding: 3rem 0.5rem;
+    background-image: linear-gradient(to bottom, #000 50%, #666 78%, #dcca87 95%);
+    max-width: 380px;
+    border: 1px solid #f5efdb;
+    border-radius: 5px;
+}

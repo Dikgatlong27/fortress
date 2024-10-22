@@ -1,0 +1,70 @@
+.app__bookings {
+    flex-direction: column;
+}
+
+.app__bookings-reservations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.app__bookings-reservations_book {
+    min-width: 400px;
+    margin-right: 2rem;
+    padding: 1rem;
+    border-radius: 5px;
+    height: auto;
+}
+
+.app__bookings-reservations_book .form-group {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.app__bookings-reservations_tablesMap {
+    width: 400px;
+    margin-left: 2rem;
+    padding: 1rem;
+    border-radius: 5px;
+    height: auto;
+}
+
+.app__bookings-reservations_tablesMap .form-group {
+    width: 100%;
+}
+
+@media screen and (max-width: 1150px) {
+    .app__bookings-reservations {
+        width: 100%;
+    }
+
+    .app__bookings-reservations_book {
+        width: 80%;
+        margin-right: 0;
+    }
+    
+    .app__bookings-reservations_tablesMap {
+        width: 80%;
+        margin-left: 0;
+        margin-top: 4rem;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .app__bookings-reservations {
+        width: 100%;
+    }
+
+    .app__bookings-reservations_book,
+    .app__bookings-reservations_tablesMap {
+        min-width: 350px;
+    }
+    
+    .form-group {
+        width: 100%;
+    }
+}

@@ -1,0 +1,20 @@
+
+
+.app__about {
+    text-align: center;
+}
+  
+.app__about-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+.app__about-content p {
+    margin-bottom: 2rem;
+}
+
+.icon {
+    color: var(--color-blue);
+    margin: 2rem;
+}

@@ -1,0 +1,31 @@
+.app__contactUs-contact_form {
+    width: 450px;
+}
+
+.app__contactUs-contact_form div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+}
+
+@media screen and (max-width:850px) {
+    .app__contactUs-contact_form {
+        width: 400px;
+    }
+    
+    .app__contactUs-contact_form div {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:550px) {
+    .app__contactUs-contact_form {
+        width: 330px;
+    }
+    
+    .app__contactUs-contact_form div {
+        width: 100%;
+    }
+}

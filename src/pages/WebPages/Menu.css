@@ -1,0 +1,73 @@
+.app__menu-hero {
+    width: 100%;
+    margin: 2rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+} 
+
+.app__menu-hero_kitchen, .app__menu-hero_sushi {
+    flex: 1;
+    width: 100%;
+    flex-direction: column;
+}
+
+.app__menu-hero-menu_heading {
+    color: var(--color-blue);
+    font-family: var(--font-base);
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 58.5px;
+    letter-spacing: 0.04em;
+}
+
+.line {
+    width: 200px;
+    height: 1px;
+    background-color: var(--color-white);
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateX();
+    animation: animate 2s linear infinite;
+}
+
+.app__menu-hero_ourMenu {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem 0;
+    padding: 0 2rem;
+    width: 100%;
+}
+
+@keyframes animate {
+    0% {
+        width: 200px;
+    }
+    50% {
+        width: 0;
+    }
+    100% {
+        width: 200px;
+    }
+}
+
+
+
+
+@media screen and (max-width:850px) {
+    .app__mwnu-hero-menu_heading {
+        font-family: var(--font-base);
+        font-weight: 500;
+        font-size: 35px;
+    }
+}
+
+
+@media screen and (max-width:550px) {
+    
+    .app__mwnu-hero-menu_heading {
+        font-size: 41px;
+    }
+}

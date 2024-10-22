@@ -1,0 +1,87 @@
+.app__footerOverlay-aboutUs {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    text-align: right;
+}
+
+.app__footerOverlay-img {
+  width: 200px;
+  padding: 0 2rem;
+  margin: 0 4rem;
+}
+
+.app__footerOverlay-img img {
+    width: 100%;
+}
+
+.app__footerOverlay-img p {
+    font-size: 12px;
+    text-align: center;
+    color: var(--color-grey);
+}
+
+.app__footerOverlay-contactUs {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    text-align: left;
+}
+
+.app__footerOverlay-aboutUs p,
+.app__footerOverlay-contactUs p {
+    color: #ccc;
+}
+
+.app__footerOverlay-contactUs a {
+    color: var(--color-golden);
+}
+
+.app__footerOverlay-contactUs_whatsapp {
+    gap: 1rem;
+}
+
+@media screen and (max-width:1150px) {
+    .app__footerOverlay-contents {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .app__footerOverlay-aboutUs,
+    .app__footerOverlay-contactUs {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .app__footerOverlay-img {
+        width: 250px;
+        padding: 0;
+        margin: 0 2rem;
+    } 
+}
+
+@media screen and (max-width:850px) {
+    .app__footerOverlay-contents {
+        flex-direction: column;
+    }
+
+    .app__footerOverlay-img {
+        width: 150px;
+        margin: 2rem 0;
+    } 
+
+    #copyright {
+        display: none;
+    }
+
+    #copyright_mobile {
+        display: flex;
+        color: var(--color-grey);
+        margin-top: 2rem;
+    }
+}

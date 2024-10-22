@@ -1,0 +1,78 @@
+.sliding-text-container {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sliding-text-container h2  {
+  font-family: var(--font-base);
+  color: var(--color-blue);
+  letter-spacing: 0.04em;
+  line-height: 29.9px;
+  font-size: 20px;
+}
+
+.vacancies-info {
+  color: #aaa;
+  padding: .5rem;
+}
+
+.vacancies-btn_mobile {
+  margin-top: 1rem;
+}
+
+.sliding-text-container {
+  overflow: hidden; /* Hide overflow to avoid scrollbars */
+}
+
+.sliding-text-wrapper {
+  display: flex; /* Arrange text in a row */
+  animation: slide 600s linear infinite; /* Adjust the duration for speed */
+  background-color: black;
+  margin-top: 1rem;
+}
+
+.sliding-text {
+  white-space: nowrap; /* Prevent line breaks */
+  padding-right: 2rem; /* Space between duplicated texts */
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(0); /* Start at the beginning */
+  }
+  100% {
+    transform: translateX(-100%); /* Move left by 100% of the container's width */
+  }
+}
+
+
+
+@media screen and (max-width: 1150px) {
+  .app__header {
+    padding: 4rem;
+  }
+
+  .header-content img {
+    width: 400px;
+    margin-bottom: 2rem;
+  }
+
+}
+
+@media screen and (max-width: 850px) {
+
+  .sliding-text-container h2  {
+    font-size: 17px;
+  }
+
+}
+
+@media screen and (max-width:650px) {
+  
+  .sliding-text {
+    animation: slide 15s linear;
+  }
+}

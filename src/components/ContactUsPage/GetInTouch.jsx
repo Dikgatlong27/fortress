@@ -7,7 +7,7 @@ const GetInTouch = () => {
   return (
     <div id='app__contactUs-contact'>
         
-      <h1 className='app__contactUs-contact_info' style={{ color: '#ccc'}}>Get in touch</h1>
+      <h2 className='app__contactUs-contact_info p__cursive' style={{color: '#95fdff', paddingBottom: '1rem'}}>Get in touch</h2>
       
       <p className='p__contact'>Email: <a href='mailto:info@fortressforte.co.za'>info@fortressforte.co.za</a></p>
       

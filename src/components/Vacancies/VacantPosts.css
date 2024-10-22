@@ -5,3 +5,7 @@
     border: 2px ridge #14362b;
     border-radius: 5px;
 }
+
+.app__vacantPosts h3 {
+    color: var(--color-golden);
+}

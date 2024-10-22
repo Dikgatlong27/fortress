@@ -10,7 +10,7 @@ const Contact = () => {
       <div className='app__contactUs app__bg' style={{ textAlign: 'center'  }}>
         <div className='section__padding'>
           <SubHeading  title={'Enquiries'}/>
-          <h1 style={{ color: '#ccc'}}>Please fill out the form below, or contact us directly.</h1>
+          <h1 className='p__cursive'>Please fill out the form below, or contact us directly.</h1>
           
           <div className='app__contactUs-contact flex__center'>
           <ContactForm />

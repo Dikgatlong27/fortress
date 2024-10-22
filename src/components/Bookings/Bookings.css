@@ -25,6 +25,10 @@
     flex-direction: column;
 }
 
+#time, #date {
+    background-color: #77777797;
+}
+
 .app__bookings-reservations_tablesMap {
     width: 400px;
     margin-left: 2rem;

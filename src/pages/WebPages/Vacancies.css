@@ -4,7 +4,7 @@
 
 .app__vacanciesPosts-sub {
     font-family: var(--font-base);
-    color: var(--color-golden);
+    color: var(--color-blue);
     font-weight: 500;
     letter-spacing: 0.04em;
     text-transform: capitalize;

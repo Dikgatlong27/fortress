@@ -1,5 +1,5 @@
 .app__floor-map {
-    width: 400px;
+    width: 500px;
     margin: 2rem auto;
 }
 
@@ -8,3 +8,15 @@
     margin-top: 2rem;
 }
 
+
+@media screen and (max-width: 850px) {
+    .app__floor-map {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .app__floor-map {
+        width: 300px;
+    }
+}

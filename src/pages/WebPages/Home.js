@@ -1,6 +1,6 @@
 import React from 'react';
 import { Navbar } from '../../components'; 
-import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, SpecialMenu } from '../../container';
+import { AboutUs, Chef, FindUs, Footer, Gallery, Header, SpecialMenu } from '../../container';
 
 const Home = () => {
   return (
@@ -10,7 +10,7 @@ const Home = () => {
       <AboutUs />
       <SpecialMenu />
       <Chef />
-      <Intro />
+      {/* <Intro /> */}
       <Gallery />
       <FindUs />
       <Footer />

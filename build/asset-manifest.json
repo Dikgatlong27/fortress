@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.57204cad.css",
-    "main.js": "/static/js/main.5333ea48.js",
+    "main.js": "/static/js/main.807f6df9.js",
     "static/media/bg.png": "/static/media/bg.0e00e438f7c6352d0ae9.png",
     "static/media/mainbg.png": "/static/media/mainbg.c77d53ca507f439b9fa4.png",
     "static/media/chef.png": "/static/media/chef.352f861209a89c32bb5c.png",
     "static/media/menu.png": "/static/media/menu.97801575b5b1411f653b.png",
     "static/media/meal.mp4": "/static/media/meal.11a6c57e539b0799b00e.mp4",
-    "static/media/events 6.jpg": "/static/media/events 6.76d80e636b96c9d284d5.jpg",
+    "static/media/events 6.jpg": "/static/media/events 6.a246afe0755ef6827911.jpg",
     "static/media/sushi-platter.jpg": "/static/media/sushi-platter.8c6168bf4ccaba77d28f.jpg",
     "static/media/meal (25).jpg": "/static/media/meal (25).910c51fba66ab33e3cca.jpg",
     "static/media/events 1.jpg": "/static/media/events 1.79c7b6dbec6256677419.jpg",
@@ -73,10 +73,10 @@
     "static/media/logo.png": "/static/media/logo.6f238fea65dc79adbced.png",
     "index.html": "/index.html",
     "main.57204cad.css.map": "/static/css/main.57204cad.css.map",
-    "main.5333ea48.js.map": "/static/js/main.5333ea48.js.map"
+    "main.807f6df9.js.map": "/static/js/main.807f6df9.js.map"
   },
   "entrypoints": [
     "static/css/main.57204cad.css",
-    "static/js/main.5333ea48.js"
+    "static/js/main.807f6df9.js"
   ]
 }

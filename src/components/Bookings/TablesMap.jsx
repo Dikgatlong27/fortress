@@ -1,4 +1,5 @@
 import React from 'react';
+import FloorMap from './FloorMap/FloorMap';
 
 import { TfiAngleDoubleDown } from "react-icons/tfi";
 
@@ -12,7 +13,9 @@ const TablesMap = () => {
       <div className='app__tablesMap_p'>
         <label for="tables" className='p__opensans' style={{marginRight: '1rem'}}>Select a Table </label>
         <TfiAngleDoubleDown size={24} color='#eee' />
+        <FloorMap />
       </div>
+
       
       <select id="tables" name="table" className='custom__input'>
           <option value="Any">(floor map coming soon)</option>

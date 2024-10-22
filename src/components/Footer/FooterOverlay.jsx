@@ -18,7 +18,7 @@ const FooterOverlay = () => (
 
         <div className="app__footerOverlay-img">
           <img src={images.C} alt="logo" />
-          <p className="p__opensans" id='copyright'>&copy; 2024 fortress restaurants</p>
+          <p className="p__opensans" id='copyright'>&copy; 2024 fortress restaurant</p>
         </div>
 
         <div className='app__footerOverlay-contactUs'>

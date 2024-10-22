@@ -21,6 +21,8 @@ import SignUp from './SignUp/SignUp';
 
 import SlidingContent from './SlidingContent/SlidingContent';
 
+import FloorMap from './Bookings/FloorMap/FloorMap';
+
 
 export {
   SubHeading,
@@ -44,5 +46,7 @@ export {
   SignIn,
   SignUp,
 
-  SlidingContent
+  SlidingContent,
+
+  FloorMap
 };

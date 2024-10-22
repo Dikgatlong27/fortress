@@ -6,6 +6,13 @@
   padding: 2rem 0;
 }
 
+.booking-btn {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  font-size: 2rem;
+}
+
 .flex__center {
   display: flex;
   justify-content: center;

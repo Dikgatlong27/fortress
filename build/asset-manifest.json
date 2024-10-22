@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.27ffa25b.css",
-    "main.js": "/static/js/main.172f7712.js",
+    "main.css": "/static/css/main.88a18c91.css",
+    "main.js": "/static/js/main.6903adf9.js",
     "static/media/bg.png": "/static/media/bg.0e00e438f7c6352d0ae9.png",
     "static/media/mainbg.png": "/static/media/mainbg.c77d53ca507f439b9fa4.png",
     "static/media/chef.png": "/static/media/chef.352f861209a89c32bb5c.png",
@@ -70,11 +70,11 @@
     "static/media/salmonCaliforniaRoll.jpg": "/static/media/salmonCaliforniaRoll.4503fe4e9c94a7da742f.jpg",
     "static/media/logo.png": "/static/media/logo.6f238fea65dc79adbced.png",
     "index.html": "/index.html",
-    "main.27ffa25b.css.map": "/static/css/main.27ffa25b.css.map",
-    "main.172f7712.js.map": "/static/js/main.172f7712.js.map"
+    "main.88a18c91.css.map": "/static/css/main.88a18c91.css.map",
+    "main.6903adf9.js.map": "/static/js/main.6903adf9.js.map"
   },
   "entrypoints": [
-    "static/css/main.27ffa25b.css",
-    "static/js/main.172f7712.js"
+    "static/css/main.88a18c91.css",
+    "static/js/main.6903adf9.js"
   ]
 }

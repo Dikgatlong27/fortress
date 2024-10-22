@@ -9,7 +9,7 @@ const Vacancies = () => {
   return (
     <>
       <Navbar /> 
-      <div className="section__padding" id='vacancies'>
+      <div className="section__padding app__bg" id='vacancies'>
         <SubHeading title='Vacancy Posts' />
           
         <div className="app__vacancieaPosts">

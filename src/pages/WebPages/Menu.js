@@ -48,8 +48,6 @@ const Menu = () => {
           <p className='p__cursive' style={{marginBottom: '2rem'}}>Click the button below to download the full menu:</p>
           <a href={pdfURL} target="_blank" rel="noopener noreferrer" className='custom__button'>Full Menu</a>
         </div>
-        
-        
       </div>
       <FooterOverlay />
     </div>

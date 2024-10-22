@@ -37,7 +37,7 @@ const ContactForm = () => {
                 <ValidationError prefix='Name' field='name' errors={state.errors} />
               </div>
 
-              <button type='submit' className='btn' >Submit</button>
+              <button type='submit' className='custom__button' >Submit</button>
             </div>
         </form>
     </div>

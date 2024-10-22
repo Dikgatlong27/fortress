@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.57204cad.css",
-    "main.js": "/static/js/main.f6be8123.js",
+    "main.js": "/static/js/main.38811b37.js",
     "static/media/bg.png": "/static/media/bg.0e00e438f7c6352d0ae9.png",
     "static/media/mainbg.png": "/static/media/mainbg.c77d53ca507f439b9fa4.png",
     "static/media/chef.png": "/static/media/chef.352f861209a89c32bb5c.png",
@@ -9,9 +9,9 @@
     "static/media/meal.mp4": "/static/media/meal.11a6c57e539b0799b00e.mp4",
     "static/media/events 6.jpg": "/static/media/events 6.76d80e636b96c9d284d5.jpg",
     "static/media/sushi-platter.jpg": "/static/media/sushi-platter.8c6168bf4ccaba77d28f.jpg",
+    "static/media/meal (25).jpg": "/static/media/meal (25).910c51fba66ab33e3cca.jpg",
     "static/media/events 1.jpg": "/static/media/events 1.79c7b6dbec6256677419.jpg",
     "static/media/lambRib.jpg": "/static/media/lambRib.6dae3434bfccf3b617b0.jpg",
-    "static/media/meal (25).jpg": "/static/media/meal (25).6dae3434bfccf3b617b0.jpg",
     "static/media/welcome.png": "/static/media/welcome.2deddc063648a5059dbf.png",
     "static/media/meal (27).jpg": "/static/media/meal (27).43ec00921dc8189db358.jpg",
     "static/media/meal (11).jpg": "/static/media/meal (11).def3cc3b34a0cd1afa68.jpg",
@@ -40,6 +40,7 @@
     "static/media/gallery  (6).jpg": "/static/media/gallery  (6).d861e169850917f713a8.jpg",
     "static/media/meal (15).jpg": "/static/media/meal (15).6870b990648d48fe5290.jpg",
     "static/media/meal (5).jpg": "/static/media/meal (5).1d245e51f6ca096306aa.jpg",
+    "static/media/Coming_Soon_restaurant_menu.jpg": "/static/media/Coming_Soon_restaurant_menu.2f68c536da074c1bd7c0.jpg",
     "static/media/meal (18).jpg": "/static/media/meal (18).4b9a5d606fc809e7e8ff.jpg",
     "static/media/meal (2).jpg": "/static/media/meal (2).492c7bf2470957655cb3.jpg",
     "static/media/Bar_Area_Design.jpg": "/static/media/Bar_Area_Design.a596958d03f911fb1323.jpg",
@@ -68,13 +69,14 @@
     "static/media/spicyTunaHandRoll.jpg": "/static/media/spicyTunaHandRoll.919ab1a6233caa4e6afb.jpg",
     "static/media/deepFriedCalie.jpg": "/static/media/deepFriedCalie.b5d40e4749be81028d11.jpg",
     "static/media/salmonCaliforniaRoll.jpg": "/static/media/salmonCaliforniaRoll.4503fe4e9c94a7da742f.jpg",
+    "static/media/spoon.png": "/static/media/spoon.b1389184e95b10741f9b.png",
     "static/media/logo.png": "/static/media/logo.6f238fea65dc79adbced.png",
     "index.html": "/index.html",
     "main.57204cad.css.map": "/static/css/main.57204cad.css.map",
-    "main.f6be8123.js.map": "/static/js/main.f6be8123.js.map"
+    "main.38811b37.js.map": "/static/js/main.38811b37.js.map"
   },
   "entrypoints": [
     "static/css/main.57204cad.css",
-    "static/js/main.f6be8123.js"
+    "static/js/main.38811b37.js"
   ]
 }

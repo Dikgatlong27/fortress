@@ -21,6 +21,8 @@ import img5 from '../assets/Interior_Main_Dining_Area.jpg'
 import img6 from '../assets/Interior_Private_Dining_Room.jpg'
 import img7 from '../assets/Terrace_Seating.jpg'
 
+import comingSoonImage from '../assets/Coming_Soon_restaurant_menu.jpg'
+
 // Menu Page 
 
 import espatada from '../assets/espatadaRump.jpg';
@@ -119,6 +121,7 @@ export default {
   img5,
   img6,
   img7,
+  comingSoonImage,
 
   // Menu Page 
 

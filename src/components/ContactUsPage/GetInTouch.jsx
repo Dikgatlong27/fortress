@@ -27,7 +27,7 @@ const GetInTouch = () => {
       <div>
         <h3>Opening Hours</h3>
         <p className='p__opensans'>Mon - Sat: 10:00 - 22:00</p>
-        <p className='p__opensans'>Sun: 10:00 - 21:00</p>
+        <p className='p__opensans'>Sun: 10:00 - 17:00</p>
       </div>
         
     </div>

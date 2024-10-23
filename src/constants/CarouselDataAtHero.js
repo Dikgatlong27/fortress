@@ -3,27 +3,27 @@ import { images } from '../constants'
 const slides = [
         
         {
-            src: images.events6,
+            src: images.sashimi9ps,
             alt: 'Image 1'
         },
         {
-            src: images.events1,
+            src: images.meal11,
             alt: 'Image 2'
         },
         {
-            src: images.events6,
+            src: images.meal13,
             alt: 'Image 3'
         },
         {
-            src: images.events1,
+            src: images.sashimi9ps,
             alt: 'Image 4'
         },
         {
-            src: images.events6,
+            src: images.meal11,
             alt: 'Image 5'
         },
         {
-            src: images.events1,
+            src: images.meal13,
             alt: 'Image 6'
         },
 

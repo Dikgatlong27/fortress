@@ -3,24 +3,21 @@ import { images } from '../constants';
 const savorTheFlavors = [
     
    
-    images.meal3,
+    images.img1,
 
  
-    images.meal11,
+    images.img2,
   
-    images.meal13,
+    images.img3,
   
-    images.meal15,
+    images.img4,
     
    
-    images.meal18,
-    images.meal19,
+    images.img5,
+    images.img6,
    
    
-    images.meal22,
-   
-    images.meal24,
-    images.meal25,
+    images.img7,
     
     
 ]

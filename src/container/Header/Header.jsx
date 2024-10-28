@@ -2,9 +2,9 @@ import React from 'react';
 import { Link } from 'react-router-dom'; 
 
 import './Header.css';
-import { VacanciesPostsAtHome, SubHeading, SlidesAtHero } from '../../components';
+import { VacanciesPostsAtHome, SubHeading } from '../../components';
 
-import slides from '../../constants/CarouselDataAtHero'
+// import slides from '../../constants/CarouselDataAtHero'
 
 const 
 Header = () => (
@@ -21,10 +21,10 @@ Header = () => (
         
         <Link to='/reservation' className='custom__button home-rsv-btn'>Make a Reservation</Link>
       </div>
-      <div className="app__wrapper_img">
+      {/* <div className="app__wrapper_img">
         <h3 className='app__wrapper_img-header'>Featured Dishes</h3>
         <SlidesAtHero data={slides} />
-      </div>
+      </div> */}
     </div>
     
   </div>

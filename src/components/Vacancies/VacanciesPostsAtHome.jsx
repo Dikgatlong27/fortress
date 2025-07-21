@@ -9,139 +9,139 @@ const VacanciesPostsAtHome = () => {
       <h2>Featured Job Openings</h2>
       <div className="sliding-text-wrapper">
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
         <p className='vacancies-info sliding-text'>
-          The closing date is <strong>25 November 2024</strong>, and there are instructions for applying on the vacancies page.
+          The closing date is <strong>31 July 2025</strong>, and there are instructions for applying on the vacancies page.
         </p>
       </div>
       <p className='vacancies-btn_mobile bounce-top'>

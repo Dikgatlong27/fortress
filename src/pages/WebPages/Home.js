@@ -1,6 +1,6 @@
 import React from 'react';
-import { Navbar } from '../../components'; 
-import { AboutUs, Chef, FindUs, Footer, Gallery, Header } from '../../container';
+import { Navbar } from '../../components';
+import { AboutUs, FindUs, Footer, Gallery, Header } from '../../container';
 
 const Home = () => {
   return (
@@ -9,14 +9,13 @@ const Home = () => {
       <Header />
       <AboutUs />
       {/* <SpecialMenu /> */}
-      <Chef />
+      {/* <Chef /> */}
       {/* <Intro /> */}
       <Gallery />
       <FindUs />
       <Footer />
     </>
-    
-  )
-}
+  );
+};
 
-export default Home
+export default Home;

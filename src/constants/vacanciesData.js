@@ -1,13 +1,5 @@
 const vacanciesData = [
   {
-    title: 'Manager',
-    description:
-      'Lead our team to success as a dedicated Manager, ensuring exceptional service and operational efficiency in our fine dining establishment.',
-    tags: ['Kitchen', 'Pastry', 'Fine Dining'],
-    link: './Manager.pdf',
-  },
-
-  {
     title: 'Hostess',
     description:
       'Welcomes guests and manages reservations, ensuring a pleasant dining experience and efficient seating arrangements.',
@@ -56,18 +48,6 @@ const vacanciesData = [
   },
 
   {
-    title: 'Pizza Maestro',
-    description:
-      'Expert in the art of crafting delicious, hand-tossed pizzas. Specializes in perfecting the crust, balancing toppings, and achieving the ideal bake using wood-fired ovens, stone ovens, and traditional brick ovens for an authentic pizza experience.',
-    tags: [
-      'Dough Mastery',
-      'Italian Culinary Traditions',
-      'Wood-Fired, Stone, and Brick Ovens',
-    ],
-    link: './Pizza Maestro.pdf',
-  },
-
-  {
     title: 'Griller',
     description:
       'Craft delicious dishes with precision and flair as a Griller, showcasing your culinary talents on the grill in our upscale kitchen environment.',
@@ -81,14 +61,6 @@ const vacanciesData = [
       'Create culinary masterpieces as a Chef, delighting palates and elevating the dining experience with your passion and expertise in our high-end kitchen.',
     tags: ['Kitchen', 'Cooking', 'Fine Dining'],
     link: './Chef Vacancy.pdf',
-  },
-
-  {
-    title: 'Cleaners',
-    description:
-      'Responsible for maintaining cleanliness and organization in the restaurant, ensuring all areas are spotless and comply with health and safety regulations.',
-    tags: ['Cleanliness', 'Attention to Detail', 'Health and Safety'],
-    link: 'Cleaner & Scullery Vacancy.pdf',
   },
 ];
 

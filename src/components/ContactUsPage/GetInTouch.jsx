@@ -11,10 +11,10 @@ const GetInTouch = () => {
       
       <p className='p__contact'>Email: <a href='mailto:info@fortressforte.co.za'>info@fortressforte.co.za</a></p>
       
-      <p className='p__contact'>Phone: <a href='tel:+27608384036'>+27 60 838 4036</a></p>
+      
       <div className="contactUs_whatsapp flex__center">
             <FaWhatsapp size={20} color= 'green' />
-            <a className='p__opensans' style={{marginLeft: '1rem'}} href='https://wa.me/27608384036' target='_blank' rel='noreferrer'>WhatsApp</a>
+            <a className='p__opensans' style={{marginLeft: '1rem'}} href='https://wa.me/27676228529' target='_blank' rel='noreferrer'>WhatsApp</a>
           </div>
 
       <div>

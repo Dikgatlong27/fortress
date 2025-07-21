@@ -30,7 +30,7 @@ const FooterOverlay = () => (
           <p className='p__opensans'>Pretoria East, South Africa</p>
           <div className="app__footerOverlay-contactUs_whatsapp flex__center">
             <FaWhatsapp size={20} color= 'green' />
-            <a className='p__opensans' href='https://wa.me/27608384036' target='_blank' rel='noreferrer'>WhatsApp Us</a>
+            <a className='p__opensans' href='https://wa.me/27676228529' target='_blank' rel='noreferrer'>WhatsApp Us</a>
           </div>
         </div>
       </div>

@@ -12,7 +12,7 @@ const Newsletter = () => {
   }
 
   return (
-    <div className='app__newsletter app__bg section__padding'>
+    <div className='app__newsletter app__bg'>
 
 
       <SubHeading title='Subscribe' />

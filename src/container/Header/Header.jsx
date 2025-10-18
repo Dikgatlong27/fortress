@@ -2,14 +2,13 @@ import React from 'react';
 import { Link } from 'react-router-dom'; 
 
 import './Header.css';
-import { VacanciesPostsAtHome, SubHeading } from '../../components';
+import {  SubHeading } from '../../components';
 
 // import slides from '../../constants/CarouselDataAtHero'
 
 const 
 Header = () => (
   <div className="app__header">
-    <VacanciesPostsAtHome />
 
     <div className="app__header-cont"  style={{marginTop: '4rem'}}>
       <div className="app__wrapper_info">

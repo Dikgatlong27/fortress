@@ -4,7 +4,7 @@ import { images } from '../../constants'
 const FindUs = () => (
   <div className='app__wrapper section__padding' id='contact'>
     <div className="app__wrapper_info">
-      <h1 className="headtext__cursive" style={{marginBottom: '2rem'}}>Find Us</h1>
+      <h1 className="headtext__cursive" style={{marginBottom: '2rem', marginTop: '-4rem'}}>Find Us</h1>
       <div className="app__wrapper-content">
         <p className="p__opensans">Menlyn Maine Central Square, Shop 106<br /> 883 Garsfontein road., Pretoria East, South Africa</p>
         <p className="p__cursive" style={{color: '#dcca87', margin: '2rem 0'}}>Opening Hours</p>

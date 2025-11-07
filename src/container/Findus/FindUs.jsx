@@ -12,7 +12,8 @@ const FindUs = () => (
       <div className={css(styles.content)}>
         <p className={css(styles.address)}>
           Menlyn Maine Central Square, Shop 106<br />
-          883 Garsfontein Road, Pretoria East, South Africa
+          Corner Corobay and, Aramist Ave, Waterkloof Glen<br />
+          Pretoria East, South Africa, 0181
         </p>
 
         <p className={css(styles.openingLabel)}>Opening Hours</p>

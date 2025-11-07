@@ -1,4 +1,3 @@
-
 const wines = [
   {
     title: 'Meerlust Merlot',
@@ -6,17 +5,17 @@ const wines = [
     tags: ' SA | Bottle',
   },
   {
-    title: 'Spier Merlot',
-    price: 'R240',
+    title: 'R & R',
+    price: 'R540',
     tags: 'SA | Bottle',
   },
   {
-    title: 'Castle Lite Draught',
+    title: 'Castle Lite',
     price: 'R55',
     tags: 'SA | 500 ml',
   },
   {
-    title: 'Heineken',
+    title: 'Heineken Draught',
     price: 'R40',
     tags: 'NL | 330 ml',
   },
@@ -34,7 +33,7 @@ const cocktails = [
     tags: 'Vodka | Cointreau | Lime | Cranberry Juice',
   },
   {
-    title: "Strawberry Supernova",
+    title: 'Strawberry Supernova',
     price: 'R95',
     tags: '1 Smirnoff spin | Butlers strawberry | Shot of vodka',
   },
@@ -44,11 +43,10 @@ const cocktails = [
     tags: 'White rum | Limes | Mojito syrup',
   },
   {
-    title: 'Chairman island',
+    title: 'Fortress island',
     price: 'R120',
     tags: 'Coke | White spirits | Lemon',
   },
-  
 ];
 
 // eslint-disable-next-line

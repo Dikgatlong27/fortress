@@ -17,16 +17,16 @@ const FooterOverlay = () => (
         </div>
 
         <div className="app__footerOverlay-img">
-          <img src={images.C} alt="logo" />
-          <p className="p__opensans" id='copyright'>&copy; 2024 fortress restaurant</p>
+          <img src={images.mainLogo} alt="logo" />
+          <p className="p__opensans" id='copyright'>&copy; 2025 fortress Restaurant. All rights reserved.</p>
         </div>
 
         <div className='app__footerOverlay-contactUs'>
           <SubHeading title='Contact Us' />
 
-          <p className='p__opensans'>Menlyn Maine, Central Square</p>
+          <p className='p__opensans'>Ext 2, Menlyn Maine, Central Square, Waterkloof Glen</p>
+          <p className='p__opensans'>Corner Corobay and, Aramist Ave</p>
           <p className='p__opensans'>Shop No. 106</p>
-          <p className='p__opensans'>883 Garsfontein Rd.</p>
           <p className='p__opensans'>Pretoria East, South Africa</p>
           <div className="app__footerOverlay-contactUs_whatsapp flex__center">
             <FaWhatsapp size={20} color= 'green' />

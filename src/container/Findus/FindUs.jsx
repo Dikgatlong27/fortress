@@ -1,23 +1,152 @@
-import React from 'react';
-import { images } from '../../constants'
+import { StyleSheet, css } from 'aphrodite';
+import { images } from '../../constants';
 
 const FindUs = () => (
-  <div className='app__wrapper section__padding' id='contact'>
-    <div className="app__wrapper_info">
-      <h1 className="headtext__cursive" style={{marginBottom: '2rem', marginTop: '-4rem'}}>Find Us</h1>
-      <div className="app__wrapper-content">
-        <p className="p__opensans">Menlyn Maine Central Square, Shop 106<br /> 883 Garsfontein road., Pretoria East, South Africa</p>
-        <p className="p__cursive" style={{color: '#dcca87', margin: '2rem 0'}}>Opening Hours</p>
-        <p className="p__opensans">Mon - Sat: 10h00 - 22h00</p>
-        <p className="p__opensans"> Sun: 10h00 - 17h00</p>
+  <div className={css(styles.wrapper)} id="contact">
+    {/* ----------------- Info Section ----------------- */}
+    <div className={css(styles.info)}>
+      {/* Title */}
+      <h1 className={css(styles.title)}>Find Us</h1>
+
+      {/* Address and Opening Hours */}
+      <div className={css(styles.content)}>
+        <p className={css(styles.address)}>
+          Menlyn Maine Central Square, Shop 106<br />
+          883 Garsfontein Road, Pretoria East, South Africa
+        </p>
+
+        <p className={css(styles.openingLabel)}>Opening Hours</p>
+        <p className={css(styles.hours)}>Mon - Sat: 10h00 - 22h00</p>
+        <p className={css(styles.hours)}>Sun: 10h00 - 17h00</p>
       </div>
-      <button className='custom__button' style={{marginTop: '2rem'}}><a href='https://www.google.com/maps/place/Fortress+Restaurant/@-25.7860533,28.2797589,3601m/data=!3m1!1e3!4m6!3m5!1s0x1e9561cef1e2bf8f:0x1a503d2ed0d98eac!8m2!3d-25.7860533!4d28.2797589!16s%2Fg%2F11lvn01_b9?hl=en&entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D' target='_blank' rel="noreferrer">Visit Us</a></button>
+
+      {/* Visit Us Button */}
+      <button className={css(styles.button)}>
+        <a
+          href="https://maps.app.goo.gl/baNFyQ5wPUisrCMv7"
+          target="_blank"
+          rel="noreferrer"
+          className={css(styles.link)}
+        >
+          Visit Us
+        </a>
+      </button>
     </div>
 
-    <div className="app__wrapper_img">
-      <img src={images.img3} alt="findus" />
+    {/* ----------------- Image Section ----------------- */}
+    <div className={css(styles.imageContainer)}>
+      <img src={images.img3} alt="findus" className={css(styles.image)} />
     </div>
   </div>
 );
 
 export default FindUs;
+
+// ---------------------------- STYLES ----------------------------
+const styles = StyleSheet.create({
+  wrapper: {
+    display: 'flex',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    flexWrap: 'wrap',
+    padding: '4rem 2rem',
+    background: 'url(./assets/bg.png)',
+    backgroundPosition: 'center',
+    backgroundSize: 'cover',
+    backgroundRepeat: 'repeat',
+    backgroundAttachment: 'fixed',
+    '@media (max-width: 1150px)': {
+      flexDirection: 'column',
+      padding: '4rem 2rem',
+      alignItems: 'center',
+    },
+    '@media (max-width: 650px)': {
+      padding: '2rem 1rem',
+    },
+  },
+  info: {
+    flex: 1,
+    minWidth: '300px',
+    display: 'flex',
+    flexDirection: 'column',
+    justifyContent: 'center',
+    marginBottom: '2rem',
+    '@media (max-width: 1150px)': {
+      alignItems: 'center',
+      textAlign: 'center',
+    },
+  },
+  title: {
+    fontFamily: 'var(--font-base)',
+    color: 'var(--color-golden)',
+    fontSize: '64px',
+    lineHeight: '80px',
+    fontWeight: 400,
+    letterSpacing: '0.04em',
+    textTransform: 'capitalize',
+    marginBottom: '2rem',
+    '@media (max-width: 1150px)': { fontSize: '48px', lineHeight: '60px', marginTop: '0' },
+    '@media (max-width: 650px)': { fontSize: '35px', lineHeight: '50px', marginTop: '0' },
+  },
+  content: {
+    marginBottom: '2rem',
+  },
+  address: {
+    fontFamily: 'var(--font-alt)',
+    color: 'var(--color-white)',
+    fontSize: '16px',
+    lineHeight: '28px',
+    marginBottom: '1rem',
+    '@media (max-width: 650px)': { fontSize: '14px', lineHeight: '22px' },
+  },
+  openingLabel: {
+    fontFamily: 'var(--font-base)',
+    color: '#dcca87',
+    fontSize: '20px',
+    margin: '2rem 0 1rem 0',
+    '@media (max-width: 650px)': { fontSize: '18px' },
+  },
+  hours: {
+    fontFamily: 'var(--font-alt)',
+    color: 'var(--color-white)',
+    fontSize: '16px',
+    lineHeight: '28px',
+    '@media (max-width: 650px)': { fontSize: '14px', lineHeight: '22px' },
+  },
+  button: {
+    marginTop: '2rem',
+    padding: '0.8rem 2rem',
+    border: '1px solid var(--color-golden)',
+    background: 'transparent',
+    color: 'var(--color-golden)',
+    fontFamily: 'var(--font-base)',
+    fontSize: '1rem',
+    cursor: 'pointer',
+    transition: '0.4s ease',
+    ':hover': {
+      background: 'var(--color-golden)',
+      color: '#14362b',
+    },
+    '@media (max-width: 650px)': { fontSize: '0.9rem', padding: '0.6rem 1.5rem' },
+  },
+  link: {
+    color: 'inherit',
+    textDecoration: 'none',
+  },
+  imageContainer: {
+    flex: 1,
+    minWidth: '300px',
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginTop: '2rem',
+    '@media (max-width: 1150px)': { marginTop: '3rem' },
+  },
+  image: {
+    width: '100%',
+    maxWidth: '500px',
+    borderRadius: '10px',
+    boxShadow: '0 0 20px rgba(0,0,0,0.3)',
+    '@media (max-width: 650px)': { maxWidth: '100%' },
+  },
+});

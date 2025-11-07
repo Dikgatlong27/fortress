@@ -1,42 +1,19 @@
+import logo from '../assets/logo-landscape-png.png';
+import mainLogo from '../assets/logo.png';
 import bg from '../assets/bg.png';
-import chef from '../assets/chef.png';
-import C from '../assets/logo.png';
-import knife from '../assets/knife.png';
-import menu from '../assets/menu.png';
-import overlaybg from '../assets/overlaybg.png';
+import header from '../assets/header-img.jpg';
 import spoon from '../assets/spoon.png';
-import welcome from '../assets/welcome.png';
-import sign from '../assets/sign.png';
-import quote from '../assets/quote.png';
-import chairman from '../assets/logo-landscape-png.png';
+import menu from '../assets/menu.png';
 
-import mainbg from '../assets/mainbg.png';
-import nightbg from '../assets/nightbg.png';
+import img1 from '../assets/Exterior_Front_View.jpg';
+import img2 from '../assets/Terrace_Seating.jpg';
+import img3 from '../assets/Entrance_Welcome_Area.jpg';
+import img4 from '../assets/Bar_Area_Design.jpg';
+import img5 from '../assets/Interior_Main_Dining_Area.jpg';
+import img6 from '../assets/Interior_Private_Dining_Room.jpg';
+import img7 from '../assets/Exterior_Angle_View.jpg';
 
-import img1 from '../assets/Bar_Area_Design.jpg'
-import img2 from '../assets/Entrance_Welcome_Area.jpg'
-import img3 from '../assets/Exterior_Angle_View.jpg'
-import img4 from '../assets/Exterior_Front_View.jpg'
-import img5 from '../assets/Interior_Main_Dining_Area.jpg'
-import img6 from '../assets/Interior_Private_Dining_Room.jpg'
-import img7 from '../assets/Terrace_Seating.jpg'
-
-import comingSoonImage from '../assets/Coming_Soon_restaurant_menu.jpg'
-
-// Menu Page 
-
-import espatada from '../assets/espatadaRump.jpg';
-import lambShank from '../assets/lambShank.jpg';
-import lambRib from '../assets/lambRib.jpg';
-import oxTail from '../assets/oxTail.jpg';
-import filletOnTheBone from '../assets/filletOnTheBone.jpg';
-import sashimi9ps from '../assets/slider-img/OurGallery/sushi/sashimi 9pcs.jpg';
-import sushiSashimi from '../assets/slider-img/OurGallery/sushi/sushiSashimiFushion.jpg';
-import spicyTunaTemaki from '../assets/slider-img/OurGallery/sushi/spicyTunaHandRoll.jpg';
-import chickenWings from '../assets/chicken-wings.jpg';
-import sushiPlatter from '../assets/sushi-platter.jpg';
-import salmonCali from '../assets/slider-img/OurGallery/sushi/salmonCaliforniaRoll.jpg';
-import deepFriedCali from '../assets/slider-img/OurGallery/sushi/deepFriedCalie.jpg';
+// Menu Page
 
 // Gallery Page - bevs
 
@@ -81,38 +58,19 @@ import meal26 from '../assets/slider-img/OurGallery/meal/meal (26).jpg';
 import meal27 from '../assets/slider-img/OurGallery/meal/meal (27).jpg';
 import meal28 from '../assets/slider-img/OurGallery/meal/meal (28).jpg';
 
-
 // Events
 
 import events1 from '../assets/events/events 1.jpg';
 import events6 from '../assets/events/events 6.jpg';
 
-
-
-
-
-
-
-
-
-
-
 // eslint-disable-next-line
 export default {
+  logo,
+  mainLogo,
   bg,
-  chef,
-  C,
-  knife,
-  menu,
-  overlaybg,
+  header,
   spoon,
-  welcome,
-  sign,
-  quote,
-  chairman,
-
-  mainbg,
-  nightbg,
+  menu,
 
   img1,
   img2,
@@ -121,25 +79,11 @@ export default {
   img5,
   img6,
   img7,
-  comingSoonImage,
 
-  // Menu Page 
-
-  espatada,
-  lambShank,
-  lambRib,
-  oxTail,
-  filletOnTheBone,
-  sashimi9ps,
-  sushiSashimi,
-  spicyTunaTemaki,
-  chickenWings,
-  sushiPlatter,
-  salmonCali,
-  deepFriedCali,
+  // Menu Page
 
   // Gallery Page - bevs
-  
+
   // Gallery Page - gallry
 
   gallery1,
@@ -153,9 +97,9 @@ export default {
   // Gallery Page - meal
 
   meal1,
-  meal2, 
+  meal2,
   meal3,
-  meal4, 
+  meal4,
   meal5,
   meal6,
   meal7,
@@ -184,5 +128,4 @@ export default {
   // Events
   events1,
   events6,
-  
 };

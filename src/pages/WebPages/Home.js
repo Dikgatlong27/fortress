@@ -1,6 +1,13 @@
 import React from 'react';
 import { Navbar } from '../../components';
-import { AboutUs, FindUs, Footer, Gallery, Header } from '../../container';
+import {
+  AboutUs,
+  FindUs,
+  Footer,
+  Gallery,
+  Header,
+  SpecialMenu,
+} from '../../container';
 
 const Home = () => {
   return (
@@ -8,7 +15,7 @@ const Home = () => {
       <Navbar />
       <Header />
       <AboutUs />
-      {/* <SpecialMenu /> */}
+      <SpecialMenu />
       {/* <Chef /> */}
       {/* <Intro /> */}
       <Gallery />

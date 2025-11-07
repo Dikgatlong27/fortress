@@ -171,7 +171,6 @@ const styles = StyleSheet.create({
 
   // Button styling with hover effect
   button: {
-    padding: '0.8rem 2rem',
     border: '1px solid var(--color-golden)',
     background: 'transparent',
     color: 'var(--color-golden)',
@@ -189,5 +188,8 @@ const styles = StyleSheet.create({
   link: {
     color: 'inherit',
     textDecoration: 'none',
+    display: 'block',
+    width: '100%',
+    height: '100%',
   },
 });

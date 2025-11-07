@@ -114,7 +114,6 @@ const styles = StyleSheet.create({
   // Explore button
   button: {
     marginTop: '1rem',
-    padding: '0.8rem 2rem',
     border: '1px solid var(--color-golden)',
     background: '#dca7673b',
     color: 'var(--color-white)',
@@ -131,6 +130,9 @@ const styles = StyleSheet.create({
   link: {
     color: 'inherit',
     textDecoration: 'none',
+    display: 'block',
+    width: '100%',
+    height: '100%',
   },
 
   // Right images container

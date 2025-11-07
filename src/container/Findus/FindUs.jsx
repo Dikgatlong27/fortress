@@ -115,7 +115,6 @@ const styles = StyleSheet.create({
   },
   button: {
     marginTop: '2rem',
-    padding: '0.8rem 2rem',
     border: '1px solid var(--color-golden)',
     background: 'transparent',
     color: 'var(--color-golden)',
@@ -132,6 +131,9 @@ const styles = StyleSheet.create({
   link: {
     color: 'inherit',
     textDecoration: 'none',
+    display: 'block',
+    width: '100%',
+    height: '100%',
   },
   imageContainer: {
     flex: 1,

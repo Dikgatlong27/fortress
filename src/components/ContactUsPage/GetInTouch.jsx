@@ -19,10 +19,10 @@ const GetInTouch = () => {
 
       <div>
         <h3>Address</h3>
-        <p className='p__opensans'>Shop No. 106</p>
-        <p className='p__opensans'>Menlyn Maine, Central Square</p>
-        <p className='p__opensans'>883 Garsfontein Rd.</p>
-        <p className='p__opensans'>Pretoria East, South Africa</p>
+        <p className='p__opensans'>Ext 2, Menlyn Maine, Central Square, Waterkloof Glen</p>
+          <p className='p__opensans'>Corner Corobay and, Aramist Ave</p>
+          <p className='p__opensans'>Shop No. 106</p>
+          <p className='p__opensans'>Pretoria East, South Africa, 0181</p>
       </div>
       <div>
         <h3>Opening Hours</h3>

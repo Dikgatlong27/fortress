@@ -24,7 +24,7 @@ const Header = () => {
 
         {/* CTA Button linking to Menu Page */}
         <button className={css(styles.button)}>
-          <Link to="/menu">Explore Menu</Link>
+          <Link to="/menu" className={css(styles.link)}>Explore Menu</Link>
         </button>
       </div>
 
@@ -99,7 +99,6 @@ const styles = StyleSheet.create({
   // Button styling
   button: {
     marginTop: '1rem',
-    padding: '0.8rem 2rem',
     border: '1px solid var(--color-golden)',
     background: 'transparent',
     color: 'var(--color-golden)',
@@ -111,6 +110,13 @@ const styles = StyleSheet.create({
       background: 'var(--color-golden)', // Hover fill effect
       color: '#14362b', // Text color changes to dark green
     },
+  },
+  link: {
+    color: 'inherit',
+    textDecoration: 'none',
+    display: 'block',
+    width: '100%',
+    height: '100%',
   },
 
   // Right-side image container
